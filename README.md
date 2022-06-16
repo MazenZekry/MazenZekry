@@ -6,3 +6,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
 </p>
+<p><img src="https://komarev.com/ghpvc/?username=MazenZekry&style=flat-square&color=blue" alt=""></p>
+<p><em>Android Developer
+Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
