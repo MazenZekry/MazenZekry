@@ -7,6 +7,13 @@
 </div>
 </p>
 <p><img src="https://komarev.com/ghpvc/?username=MazenZekry&style=flat-square&color=blue" alt=""></p>
-<p><em>Android Developer
+<p><em>Android Developer &
 Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+- Problem Solver :computer:
+- Creative :bulb:
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mazenzekry&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenzekry&theme=chartreuse-dark" />
+</p>  
