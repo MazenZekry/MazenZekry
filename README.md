@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenzekry&theme=algolia" />
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenzekry&&theme=blueberry-duo&background=000000" />
 </p>  
