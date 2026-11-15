@@ -4,12 +4,12 @@
 </h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88abff&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Crafting+User-Centered+Experiences;Wireframes+%E2%80%A2+Prototypes+%E2%80%A2+Design+Systems;Turning+Ideas+into+Beautiful+Interfaces+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=19C670&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Crafting+User-Centered+Experiences;Wireframes+%E2%80%A2+Prototypes+%E2%80%A2+Design+Systems;Turning+Ideas+into+Beautiful+Interfaces+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MazenZekry&style=flat-square&color=88abff" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=MazenZekry&style=flat-square&color=19C670" alt="Profile views">
 </p>
 
 ---
