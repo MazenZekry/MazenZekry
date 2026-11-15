@@ -23,7 +23,6 @@
 - 🚀 Open to freelance & collaboration
   
 ---
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mazenzekry&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mazenzekry&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FF6B6B&dates=8B949E&stroke=30363D" />
 </p>
