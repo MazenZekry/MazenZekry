@@ -1,6 +1,6 @@
 <h2 align="center">
-  <span style="color:#95ddff">Hey There! I'm Mazen Zekry</span> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
-
+  <span style="color:#95ddff">Hey There! I'm Mazen Zekry</span> &nbsp
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 </h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
