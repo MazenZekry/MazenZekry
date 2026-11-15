@@ -27,6 +27,6 @@
   <img src="https://streak-stats.demolab.com/?user=mazenzekry&hide_border=true&background=0D1117&ring=FF4D4D&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D4D&sideLabels=FF6B6B&dates=8B949E&stroke=30363D" />
 </p>
 
-<p align="left">
+<p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazenzekry&theme=chartreuse-dark" />
 </p>  
