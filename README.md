@@ -1,5 +1,7 @@
 <h2 align="center">
   <span style="color:#95ddff">Hey There! I'm Mazen Zekry</span> &nbsp
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=95ddff&center=true&vCenter=true&width=500&lines=Hey+There!+I'm+Mazen+Zekry" />
+
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35px">
 </h2>
 <p align="center">
