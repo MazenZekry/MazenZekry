@@ -1,5 +1,6 @@
 <h2 align="center">
-  <span style="color:#95ddff">Hey There! I'm Mazen Zekry</span>
+  <span style="color:#95ddff">Hey There! I'm Mazen Zekry</span>  <img src="./assets/waving-hand.gif" width="30px">
+
 </h2>
 
 <p align="center">
