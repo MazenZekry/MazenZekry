@@ -1,7 +1,4 @@
-<h2 align="center">
-  Hey There! I'm Mazen Zekry
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There!+I'm+Mazen+Zekry)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
